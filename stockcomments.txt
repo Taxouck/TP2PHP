@@ -1,0 +1,4 @@
+<div class="commall"><p class="pseudo">taxouck</p><p class="commentaire">kljlhiohkjlhjk</p></div>
+		<div class="commall"><p class="pseudo">taxouck</p><p class="commentaire">jhffhsdfgsfccfhyht</p></div>
+		<div class="commall"><p class="pseudo">admin</p><p class="commentaire">-u'(ibènoybvurcyvr</p></div>
+		

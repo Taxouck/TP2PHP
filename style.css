@@ -1,0 +1,64 @@
+#boitecomms{
+	border:5px solid black;
+	min-width: 250px;
+	background-color:#999999;
+	display:inline-block;
+}
+
+.pseudo{
+	text-align:left;
+	font-weight:bold;
+	color: #333333;
+}
+
+.commentaire{
+	text-align:right;
+	color: #222222;
+}
+
+.commall{
+	margin:0px 10px 10px;
+	border:3px solid black;
+	box-sizing: border-box;
+	box-shadow: 0px 0px 5px 3px #444444;
+	background-color:white;
+	min-width:230px;
+	display:inline-block;
+}
+
+form{
+	text-align: center;
+}
+
+form p{
+	border:3px solid black;
+	display:inline-block;
+	margin-right: 50%;
+	padding: 10px;
+	background-color: #bbbbbb;
+	text-align: left;
+}
+
+input#nom{
+	width:100px;
+	margin-top:5px;
+}
+
+textarea{
+	min-width:150px;
+	min-height:70px;
+	max-width:700px;
+	max-height:300px;
+	width: 250px;
+	height:100px;
+
+}
+
+input#valider{
+	width:100px;
+	font-weight:bold;
+}
+
+#deconnection{
+	text-align:left;
+}
